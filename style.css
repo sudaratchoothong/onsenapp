@@ -1,0 +1,25 @@
+.toolbar {
+    background-color: pink;
+    font-size: 140%;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+}
+
+ons-carousel[fullscreen] {
+    height: 80%;
+}
+
+.h1 {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.class {
+    font-size: medium;
+}
+
+.tabbar {
+    background-color: pink;
+}
